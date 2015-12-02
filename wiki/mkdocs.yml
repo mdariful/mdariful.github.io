@@ -1,0 +1,5 @@
+site_name: Il mio primo wiki
+pages:
+- Home: index.md
+- About: about.md
+theme: readthedocs
