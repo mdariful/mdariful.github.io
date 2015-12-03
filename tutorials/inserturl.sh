@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e "Inserire un link da aggiungere file indice\n";
+echo -e "Inserire un link da aggiungere al file index.html\n";
 read ilmiolink;
 echo -e "Ora inserire il nome da dare al link\n";
 read nomelink;
