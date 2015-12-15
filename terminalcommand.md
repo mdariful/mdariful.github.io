@@ -53,10 +53,10 @@ Move to your command line window and type:
 
 linux command:
 
-ll list all files on the folder
-cd move on the directory
-mv move a file or rename
-cp copy a file
-touch create a new file
-mkdir create a new directory
-rm remove a file or directory
+ll list all files on the folder  
+cd move on the directory  
+mv move a file or rename  
+cp copy a file  
+touch create a new file  
+mkdir create a new directory  
+rm remove a file or directory  
