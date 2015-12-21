@@ -48,15 +48,19 @@ Move to your command line window and type:
 - git commit -m "remove fileName"
 
 
-
-
-
 linux command:
 
-ll list all files on the folder  
-cd move on the directory  
-mv move a file or rename  
-cp copy a file  
-touch create a new file  
-mkdir create a new directory  
-rm remove a file or directory  
+ll = list all files on the folder  
+cd directoryorpath = move on the directory  
+mv file1 file2 = move a file or rename  
+mv dir1 dir2 = move a directory or rename
+cp = copy a file
+touch filename = create a new file  
+mkdir dirfile = create a new directory  
+rm -rf file = remove a file or directory  
+cat [filename] = Display file’s contents to the standard output device (usually your monitor).
+find [pathname] [expression] = Search for files matching a provided pattern.
+grep [options] pattern [filesname] = Search files or output for a particular pattern.
+locate filename = Search a copy of your filesystem for the specified filename.
+man [command] = Display the help information for the specified command.
+pwd = Display the pathname for the current directory.
